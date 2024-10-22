@@ -3,11 +3,12 @@
 <p align='center'>Cursei o curso técnico de Eletrônica em 2011, e desde então trabalho na area de sistemas embarcados, em 2021 como Arquiteto de IoT e 2022 graduado em Engenharia de Computação na UNISATC, podendo trabalhar como Analista de Sistemas, Analista de dados e Analista de Segurança. As soluções que desenvolvo vão desde o hardware até o software, podendo ser sistemas de controle, sistemas de telemetria, IoT, visão computacional, APIs, aplicativos WEB ou Mobile</p>
 <br/>
 <h2 align='center'>Redes sociais</h2>
-<p align='center'><a href="mailto:jonasgeremiasjj@gmail.com" target="blank"><img align="center" src="https://camo.githubusercontent.com/4a3dd8d10a27c272fd04b2ce8ed1a130606f95ea6a76b5e19ce8b642faa18c27/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f676d61696c2e737667" alt="jonasgeremias" height="30" width="40"/></a>
-<a href="www.linkedin.com/in/jonasgeremias" target="blank"><img align="center" src="https://camo.githubusercontent.com/c8a9c5b414cd812ad6a97a46c29af67239ddaeae08c41724ff7d945fb4c047e5/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e6b6564696e2e737667" alt="jonasgeremias" height="30" width="40"/></a>
-<a href="https://www.facebook.com/jonaspgeremias" target="blank"><img align="center" src="https://camo.githubusercontent.com/8f245234577766478eaf3ee72b0615e99bb9ef3eaa56e1c37f75692811181d5c/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f66616365626f6f6b2e737667" alt="jonasgeremias" height="30" width="40" /></a>
-<a href="https://www.instagram.com/jonaspgeremias/" target="blank"><img align="center" src="https://camo.githubusercontent.com/c9dacf0f25a1489fdbc6c0d2b41cda58b77fa210a13a886d6f99e027adfbd358/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f696e7374616772616d2e737667" alt="jonasgeremias" height="30" width="40" /></a>
+<p align='center'><a href="mailto:jonasgeremiasjj@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/?size=48&id=X0mEIh0RyDdL&format=png" alt="jonasgeremias" height="40" width="40"/></a>
+<a href="www.linkedin.com/in/jonasgeremias" target="blank"><img align="center" src="https://img.icons8.com/?size=48&id=13930&format=png" alt="jonasgeremias" height="40" width="40"/></a>
+<a href="https://www.facebook.com/jonaspgeremias" target="blank"><img align="center" src="https://img.icons8.com/?size=48&id=118497&format=png" alt="jonasgeremias" height="40" width="40" /></a>
+<a href="https://www.instagram.com/jonaspgeremias/" target="blank"><img align="center" src="https://img.icons8.com/?size=48&id=32323&format=png" alt="jonasgeremias" height="40" width="40" /></a>
 </p>
+
 <br/>
 
 <h2 align='center'>Chips, linguagens e ferramentas</h2>
