@@ -1,6 +1,6 @@
 
 <h1 align='center'>Sobre</h1>
-<p align='center'>Cursei o curso técnico de Eletrônica em 2011, e desde então trabalho na area de sistemas embarcados, em 2021 como Arquiteto de IoT e 2022 graduado em Engenharia de Computação na UNISATC, podendo trabalhar como Analista de Sistemas, Analista de dados e Analista de Segurança. As soluções que desenvolvo vão desde o hardware até o software, podendo ser sistemas de controle, sistemas de telemetria, IoT, visão computacional, APIs, aplicativos WEB ou Mobile</p>
+<p align='center'>Engenheiro de Computação com mais de uma década de experiência em eletrônica, sistemas embarcados, IoT e desenvolvimento de soluções completas, do hardware ao software.Atuo com arquitetura de sistemas, engenharia de produto, telemetria, firmware, aplicações e integração com cloud, além de liderança técnica e definição de soluções para problemas complexos.Minha formação e experiência também incluem Análise de Dados, Segurança da Informação e Arquitetura IoT. Atualmente, amplio minha atuação em Inteligência Artificial Aplicada, conectando engenharia, dados e IA na construção de produtos e sistemas mais inteligentes.Tenho perfil multidisciplinar, com forte visão de ponta a ponta, unindo hardware, software, dados e negócio.</p>
 <br/>
 <h2 align='center'>Redes sociais</h2>
 <p align='center'><a href="mailto:jonasgeremiasjj@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/?size=48&id=X0mEIh0RyDdL&format=png" alt="jonasgeremias" height="40" width="40"/></a>
